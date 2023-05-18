@@ -1,20 +1,6 @@
-# HTML Academy. Учебный проект «VueWork»
-
 ## Начальные требования
 - Docker
 - NodeJS >= 16
-
-## Docker установка
-https://docs.docker.com/get-docker/
-
-## Node js установка
-Мы рекоммендуем использовать Node Version Manager для удобного управления версиями node.js
-
-https://github.com/nvm-sh/nvm
-
-Либо можно установить node.js отдельно
-
-https://nodejs.org/en/download/
 
 ## Работа с помощью GNU Make
 Для удобной работой с проектом мы используем GNU Make.
@@ -27,8 +13,6 @@ https://www.gnu.org/software/make/
 ```
 make --version 
 ```
-
-В случае отстутствия GNU Make, мы рекоммендуем установить его.
 
 В makefile доступны следующие команды
 
